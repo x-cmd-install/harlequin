@@ -7,7 +7,7 @@ about:
   head: a1eee96
   archived: false
   latestVersion: v2.13.0
-  collectedAt: 2026-09-04T20:15:16Z
+  collectedAt: 2026-09-04T20:31:29Z
 timeline:
   created: 2023-05-02
   lastCommit: 2026-09-04
@@ -82,7 +82,7 @@ total:
   commit: 553
 ---
 path: /home/runner/.x-repo/github.com/tconbeer/harlequin
-collectedAt: 2026-09-04T20:15:20Z
+collectedAt: 2026-09-04T20:31:32Z
 loc:
   Python:
     code: 40222
