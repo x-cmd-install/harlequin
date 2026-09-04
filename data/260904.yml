@@ -1,0 +1,59 @@
+about:
+  description:
+  |
+    The SQL IDE for Your Terminal.
+  license: MIT
+  homepage: https://harlequin.sh
+  head: e278c0b
+  archived: false
+  latestVersion: v2.13.0
+  collectedAt: 2026-09-04T04:18:49Z
+timeline:
+  created: 2023-05-02
+  lastCommit: 2026-09-04
+  lastRelease: 2026-09-02
+popularity:
+  star: 6373
+  watcher: 25
+  fork: 171
+  release: 102
+  contributor: 25
+  pullRequest: 203
+  issue: 297
+language:
+  Python: 1602887
+  Makefile: 1899
+totalBytes: 1604786
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 10
+    mergedPR: 92
+    openPR: 4
+    closedIssue: 15
+    openIssue: 4
+    commit: 87
+  last90d:
+    since: 2026-06-06
+    release: 11
+    mergedPR: 114
+    openPR: 11
+    closedIssue: 22
+    openIssue: 4
+    commit: 117
+  last180d:
+    since: 2026-03-08
+    release: 12
+    mergedPR: 121
+    openPR: 11
+    closedIssue: 28
+    openIssue: 4
+    commit: 124
+  last360d:
+    since: 2025-09-09
+    release: 20
+    mergedPR: 158
+    openPR: 13
+    closedIssue: 53
+    openIssue: 8
+    commit: 170
