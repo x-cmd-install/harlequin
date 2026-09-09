@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.13.0"
   latestRelease: "v2.13.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:08:37Z
+  collectedAt: 2026-09-09T19:21:12Z
 timeline:
   created: 2023-05-02
   lastCommit: 2026-09-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-02
   lastPrerelease: 
 popularity:
-  star: 6382
+  star: 6390
   watcher: 25
   fork: 174
   release: 102
@@ -84,7 +84,7 @@ total:
   commit: 554
 ---
 path: /home/runner/.x-repo/github.com/tconbeer/harlequin
-collectedAt: 2026-09-09T05:08:43Z
+collectedAt: 2026-09-09T19:21:16Z
 loc:
   Python:
     code: 40222
