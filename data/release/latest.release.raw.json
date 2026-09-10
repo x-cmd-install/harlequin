@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1068,
       "digest": "sha256:59d7f5997117e3c2537b7527721b37bbc33bb14381eafd1f1ac308e563fb6c1e",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-02T19:41:16Z",
       "updated_at": "2026-09-02T19:41:17Z",
       "browser_download_url": "https://github.com/tconbeer/harlequin/releases/download/v2.13.0/LICENSE"
