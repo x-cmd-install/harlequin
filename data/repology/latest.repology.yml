@@ -1,0 +1,226 @@
+- repo: homebrew
+  srcname: harlequin
+  visiblename: harlequin
+  version: 2.13.0
+  origversion: null
+  status: newest
+  summary: Easy, fast, and beautiful database client for the terminal
+- repo: aur
+  srcname: harlequin
+  binname: harlequin
+  visiblename: harlequin
+  version: 2.13.0
+  origversion: 2.13.0-1
+  status: newest
+  summary: The SQL IDE for Your Terminal
+  maintainers:
+    - alphajack@aur
+    - prochac@aur
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: debian_14
+  subrepo: forky/main
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.8.1
+  origversion: 2.8.1+dfsg-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.13.0
+  origversion: 2.13.0+dfsg-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.1.2
+  origversion: 2.1.2-2
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - admin
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.13.0
+  origversion: 2.13.0+dfsg-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: homebrew
+  srcname: harlequin
+  visiblename: harlequin
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Easy, fast, and beautiful database client for the terminal
+- repo: kali_rolling
+  subrepo: main
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.8.1
+  origversion: 2.8.1+dfsg-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: nix_stable_24_11
+  srcname: harlequin
+  visiblename: harlequin
+  version: 1.25.0
+  origversion: null
+  status: outdated
+  summary: The SQL IDE for Your Terminal
+  maintainers:
+    - david@joynetiks.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: harlequin
+  visiblename: harlequin
+  version: 2.0.0
+  origversion: null
+  status: outdated
+  summary: The SQL IDE for Your Terminal
+  maintainers:
+    - david@joynetiks.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: harlequin
+  visiblename: harlequin
+  version: 2.4.1
+  origversion: null
+  status: outdated
+  summary: SQL IDE for Your Terminal
+  maintainers:
+    - david@joynetiks.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: harlequin
+  visiblename: harlequin
+  version: 2.5.2
+  origversion: null
+  status: outdated
+  summary: SQL IDE for Your Terminal
+  maintainers:
+    - david@joynetiks.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: harlequin
+  visiblename: harlequin
+  version: 2.13.0
+  origversion: null
+  status: newest
+  summary: SQL IDE for Your Terminal
+  maintainers:
+    - david@joynetiks.com
+  licenses:
+    - MIT
+- repo: raspbian_testing
+  subrepo: main
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.8.1
+  origversion: 2.8.1+dfsg-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.0.5
+  origversion: 2.0.5+dfsg-2
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.1.2
+  origversion: 2.1.2-2
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.5.1
+  origversion: 2.5.1+dfsg-2
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.9.0
+  origversion: 2.9.0+dfsg-1
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10_proposed
+  subrepo: stonking-proposed/universe
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.9.0
+  origversion: 2.9.0+dfsg-2
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
