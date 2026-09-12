@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8925,
       "digest": "sha256:365bd12c2e7ef6df779ab8004f0487f5492f3a0a9b022934e14b09f13588d71e",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-02T19:41:16Z",
       "updated_at": "2026-09-02T19:41:17Z",
       "browser_download_url": "https://github.com/tconbeer/harlequin/releases/download/v2.13.0/hsql-2.13.0-py3-none-any.whl"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10948,
       "digest": "sha256:23152eb724c8c8b5161b7583eff437b1ae785577e4e2bafb32764005a1ec2b8c",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-02T19:41:16Z",
       "updated_at": "2026-09-02T19:41:17Z",
       "browser_download_url": "https://github.com/tconbeer/harlequin/releases/download/v2.13.0/hsql-2.13.0.tar.gz"
