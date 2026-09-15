@@ -1,0 +1,136 @@
+about:
+  description: "The SQL IDE for Your Terminal."
+  license: MIT
+  homepage: https://harlequin.sh
+  head: 0b9e6cf
+  archived: false
+  latestVersion: "v2.14.0"
+  latestRelease: "v2.14.0"
+  latestPrerelease: ""
+  collectedAt: 2026-09-15T05:25:30Z
+timeline:
+  created: 2023-05-02
+  lastCommit: 2026-09-15
+  lastVersion: 2026-09-14
+  lastRelease: 2026-09-14
+  lastPrerelease: 
+popularity:
+  star: 6398
+  watcher: 24
+  fork: 176
+  release: 103
+  contributor: 27
+  pullRequest: 745
+  issue: 300
+language:
+  Python: 2021103
+  Makefile: 1899
+totalBytes: 2023002
+recent:
+  last30d:
+    since: 2026-08-16
+    release: 7
+    mergedPR: 88
+    openPR: 3
+    closedIssue: 9
+    openIssue: 6
+    commit: 0
+  last60d:
+    since: 2026-07-17
+    release: 12
+    mergedPR: 132
+    openPR: 8
+    closedIssue: 19
+    openIssue: 6
+    commit: 0
+  last90d:
+    since: 2026-06-17
+    release: 12
+    mergedPR: 133
+    openPR: 10
+    closedIssue: 22
+    openIssue: 6
+    commit: 0
+  last180d:
+    since: 2026-03-19
+    release: 13
+    mergedPR: 140
+    openPR: 11
+    closedIssue: 27
+    openIssue: 6
+    commit: 0
+  last360d:
+    since: 2025-09-20
+    release: 20
+    mergedPR: 174
+    openPR: 13
+    closedIssue: 53
+    openIssue: 10
+    commit: 0
+  last720d:
+    since: 2024-09-25
+    release: 34
+    mergedPR: 242
+    openPR: 14
+    closedIssue: 112
+    openIssue: 16
+    commit: 254
+total:
+  release: 103
+  mergedPR: 541
+  openPR: 14
+  closedIssue: 273
+  openIssue: 27
+  commit: 570
+---
+path: /home/runner/.x-repo/github.com/tconbeer/harlequin
+collectedAt: 2026-09-15T05:25:34Z
+loc:
+  Python:
+    code: 45982
+    comments: 1504
+    blanks: 7618
+    files: 163
+  Svg:
+    code: 29822
+    comments: 159
+    blanks: 1113
+    files: 159
+  Json:
+    code: 1170
+    comments: 0
+    blanks: 0
+    files: 3
+  Toml:
+    code: 467
+    comments: 108
+    blanks: 115
+    files: 17
+  Makefile:
+    code: 49
+    comments: 4
+    blanks: 12
+    files: 1
+  Sql:
+    code: 7
+    comments: 0
+    blanks: 25
+    files: 6
+  Markdown:
+    code: 0
+    comments: 7171
+    blanks: 2188
+    files: 25
+  Text:
+    code: 0
+    comments: 39
+    blanks: 1
+    files: 3
+total:
+  code: 78117
+  comments: 9023
+  blanks: 11130
+  files: 377
+---
+
+---
