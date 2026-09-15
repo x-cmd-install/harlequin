@@ -14,14 +14,14 @@ x install harlequin
 
 ## 代码洞察
 
-合计: **72,612** 行代码（覆盖前 5 种语言、共 **338** 个文件）。
+合计: **77,497** 行代码（覆盖前 5 种语言、共 **343** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 41,132 | 1,300 | 6,801 | 158 |
+| Python | 45,982 | 1,504 | 7,618 | 163 |
 | Svg | 29,822 | 159 | 1,113 | 159 |
-| Json | 1,146 | 0 | 0 | 3 |
-| Toml | 456 | 106 | 113 | 17 |
+| Json | 1,170 | 0 | 0 | 3 |
+| Toml | 467 | 108 | 115 | 17 |
 | Makefile | 49 | 4 | 12 | 1 |
 
 ## 源代码
@@ -32,38 +32,38 @@ x install harlequin
 
 ## 发布
 
-- **最新版本**: `v2.13.0` (2026-09-02)
-- **最近提交**: 2026-09-11
+- **最新版本**: `v2.14.0` (2026-09-14)
+- **最近提交**: 2026-09-15
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 6,398 · **Fork**: 175 · **开放 issue**: 300 · **贡献者**: 26
+- **Star**: 6,398 · **Fork**: 176 · **开放 issue**: 300 · **贡献者**: 27
 
 ## 累计统计
 
-- **发布数**: 102 · **已合并 PR**: 528 · **开放 PR**: 16 · **已关闭 issue**: 272 · **开放 issue**: 28 · **提交数**: 557
+- **发布数**: 103 · **已合并 PR**: 541 · **开放 PR**: 14 · **已关闭 issue**: 273 · **开放 issue**: 27 · **提交数**: 570
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 7 | 75 | 5 | 8 | 7 | 58 |
-| last60d | 2026-07-16 | 11 | 119 | 10 | 18 | 7 | 120 |
-| 90d | 2026-06-16 | 11 | 120 | 12 | 21 | 7 | 122 |
-| last180d | 2026-03-18 | 12 | 127 | 13 | 26 | 7 | 130 |
-| 360d | 2025-09-19 | 19 | 161 | 15 | 52 | 11 | 166 |
-| last720d | 2024-09-24 | 33 | 230 | 16 | 112 | 17 | 241 |
+| 30d | 2026-08-16 | 7 | 88 | 3 | 9 | 6 | 0 |
+| last60d | 2026-07-17 | 12 | 132 | 8 | 19 | 6 | 0 |
+| 90d | 2026-06-17 | 12 | 133 | 10 | 22 | 6 | 0 |
+| last180d | 2026-03-19 | 13 | 140 | 11 | 27 | 6 | 0 |
+| 360d | 2025-09-20 | 20 | 174 | 13 | 53 | 10 | 0 |
+| last720d | 2024-09-25 | 34 | 242 | 14 | 112 | 16 | 254 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [harlequin-2.13.0-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.13.0/harlequin-2.13.0-py3-none-any.whl) | 260.6 KiB | `other` |
-| [harlequin-2.13.0.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.13.0/harlequin-2.13.0.tar.gz) | 240.5 KiB | `native/unknown` |
-| [hsql-2.13.0-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.13.0/hsql-2.13.0-py3-none-any.whl) | 8.7 KiB | `other` |
-| [hsql-2.13.0.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.13.0/hsql-2.13.0.tar.gz) | 10.7 KiB | `native/unknown` |
-| [LICENSE](https://github.com/tconbeer/harlequin/releases/download/v2.13.0/LICENSE) | 1.0 KiB | `other` |
+| [harlequin-2.14.0-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.14.0/harlequin-2.14.0-py3-none-any.whl) | 320.3 KiB | `other` |
+| [harlequin-2.14.0.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.14.0/harlequin-2.14.0.tar.gz) | 294.8 KiB | `native/unknown` |
+| [hsql-2.14.0-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.14.0/hsql-2.14.0-py3-none-any.whl) | 8.9 KiB | `other` |
+| [hsql-2.14.0.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.14.0/hsql-2.14.0.tar.gz) | 11.0 KiB | `native/unknown` |
+| [LICENSE](https://github.com/tconbeer/harlequin/releases/download/v2.14.0/LICENSE) | 1.0 KiB | `other` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ harlequin 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T05:37:45Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T05:25:38Z._
