@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 341722,
       "digest": "sha256:eb21fa7e19bdce179c0f04ccd9027d3c2b5bfc982cd6d6524448227f06b73189",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-16T17:07:28Z",
       "updated_at": "2026-09-16T17:07:28Z",
       "browser_download_url": "https://github.com/tconbeer/harlequin/releases/download/v2.15.0/harlequin-2.15.0-py3-none-any.whl"
