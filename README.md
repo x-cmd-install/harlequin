@@ -33,27 +33,27 @@ Total: **79,694** lines of code across **351** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.15.0` (2026-09-16)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-21
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,405 · **Forks**: 177 · **Open issues**: 300 · **Contributors**: 28
+- **Stars**: 6,408 · **Forks**: 177 · **Open issues**: 300 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 548 · **Open PRs**: 13 · **Closed issues**: 281 · **Open issues**: 19 · **Commits**: 577
+- **Releases**: 104 · **Merged PRs**: 549 · **Open PRs**: 13 · **Closed issues**: 281 · **Open issues**: 19 · **Commits**: 578
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 8 | 78 | 2 | 12 | 2 | 56 |
-| last60d | 2026-07-23 | 13 | 136 | 6 | 22 | 2 | 140 |
-| 90d | 2026-06-23 | 13 | 139 | 9 | 25 | 2 | 142 |
-| last180d | 2026-03-25 | 14 | 145 | 10 | 31 | 2 | 148 |
-| 360d | 2025-09-26 | 21 | 180 | 12 | 57 | 5 | 185 |
-| last720d | 2024-10-01 | 34 | 248 | 13 | 114 | 11 | 259 |
+| 30d | 2026-08-23 | 8 | 79 | 2 | 12 | 2 | 57 |
+| last60d | 2026-07-24 | 13 | 137 | 6 | 22 | 2 | 141 |
+| 90d | 2026-06-24 | 13 | 140 | 9 | 24 | 2 | 143 |
+| last180d | 2026-03-26 | 13 | 146 | 10 | 31 | 2 | 149 |
+| 360d | 2025-09-27 | 21 | 181 | 12 | 57 | 5 | 186 |
+| last720d | 2024-10-02 | 34 | 249 | 13 | 114 | 11 | 260 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:14:39Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:18:22Z._
