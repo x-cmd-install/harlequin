@@ -38,7 +38,7 @@ Total: **79,694** lines of code across **351** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,414 · **Forks**: 177 · **Open issues**: 300 · **Contributors**: 28
+- **Stars**: 6,416 · **Forks**: 178 · **Open issues**: 300 · **Contributors**: 28
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **79,694** lines of code across **351** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 8 | 75 | 2 | 12 | 2 | 57 |
-| last60d | 2026-07-25 | 13 | 137 | 3 | 22 | 2 | 141 |
-| 90d | 2026-06-25 | 13 | 140 | 9 | 24 | 2 | 143 |
-| last180d | 2026-03-27 | 13 | 146 | 10 | 31 | 2 | 149 |
-| 360d | 2025-09-28 | 21 | 181 | 12 | 57 | 5 | 186 |
-| last720d | 2024-10-03 | 34 | 249 | 13 | 114 | 11 | 260 |
+| 30d | 2026-08-25 | 8 | 68 | 2 | 12 | 2 | 57 |
+| last60d | 2026-07-26 | 13 | 137 | 3 | 22 | 2 | 141 |
+| 90d | 2026-06-26 | 13 | 140 | 9 | 24 | 2 | 143 |
+| last180d | 2026-03-28 | 13 | 146 | 10 | 31 | 2 | 149 |
+| 360d | 2025-09-29 | 21 | 181 | 12 | 57 | 5 | 186 |
+| last720d | 2024-10-04 | 34 | 249 | 13 | 113 | 11 | 260 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:15:56Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:01:18Z._
