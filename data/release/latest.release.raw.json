@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 341722,
       "digest": "sha256:eb21fa7e19bdce179c0f04ccd9027d3c2b5bfc982cd6d6524448227f06b73189",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-16T17:07:28Z",
       "updated_at": "2026-09-16T17:07:28Z",
       "browser_download_url": "https://github.com/tconbeer/harlequin/releases/download/v2.15.0/harlequin-2.15.0-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 314776,
       "digest": "sha256:3129c6a1b0eb87eea64229c57835b8eb72e02b5b959c4af7c4768ed485037900",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-16T17:07:27Z",
       "updated_at": "2026-09-16T17:07:28Z",
       "browser_download_url": "https://github.com/tconbeer/harlequin/releases/download/v2.15.0/harlequin-2.15.0.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9149,
       "digest": "sha256:6236eb0f0265e82661b69953626456f39d807771e143d40e6d126b4bfdd6a451",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-16T17:07:27Z",
       "updated_at": "2026-09-16T17:07:28Z",
       "browser_download_url": "https://github.com/tconbeer/harlequin/releases/download/v2.15.0/hsql-2.15.0-py3-none-any.whl"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11234,
       "digest": "sha256:0f9c549b783def31acecb1dd6cbf0c563e5faf2b81a910d3d8a9e29f22f01b67",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-16T17:07:28Z",
       "updated_at": "2026-09-16T17:07:28Z",
       "browser_download_url": "https://github.com/tconbeer/harlequin/releases/download/v2.15.0/hsql-2.15.0.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1068,
       "digest": "sha256:59d7f5997117e3c2537b7527721b37bbc33bb14381eafd1f1ac308e563fb6c1e",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-16T17:07:27Z",
       "updated_at": "2026-09-16T17:07:28Z",
       "browser_download_url": "https://github.com/tconbeer/harlequin/releases/download/v2.15.0/LICENSE"
