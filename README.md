@@ -14,14 +14,14 @@ x install harlequin
 
 ## Code insight
 
-Total: **80,472** lines of code across **355** files in the top 5 languages.
+Total: **80,600** lines of code across **355** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 48,355 | 1,577 | 8,027 | 172 |
+| Python | 48,478 | 1,582 | 8,039 | 172 |
 | Svg | 30,423 | 162 | 1,134 | 162 |
 | Json | 1,170 | 0 | 0 | 3 |
-| Toml | 468 | 108 | 115 | 17 |
+| Toml | 473 | 94 | 118 | 17 |
 | Makefile | 49 | 4 | 12 | 1 |
 
 ## Source
@@ -32,38 +32,38 @@ Total: **80,472** lines of code across **355** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.15.0` (2026-09-16)
-- **Last commit**: 2026-09-29
+- **Latest**: `v2.16.1` (2026-10-02)
+- **Last commit**: 2026-10-02
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,443 · **Forks**: 179 · **Open issues**: 301 · **Contributors**: 28
+- **Stars**: 6,444 · **Forks**: 180 · **Open issues**: 304 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 552 · **Open PRs**: 14 · **Closed issues**: 284 · **Open issues**: 17 · **Commits**: 581
+- **Releases**: 106 · **Merged PRs**: 558 · **Open PRs**: 12 · **Closed issues**: 287 · **Open issues**: 17 · **Commits**: 587
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 3 | 38 | 2 | 8 | 2 | 30 |
-| last60d | 2026-08-02 | 13 | 140 | 4 | 22 | 2 | 130 |
-| 90d | 2026-07-03 | 13 | 143 | 9 | 25 | 2 | 146 |
-| last180d | 2026-04-04 | 13 | 149 | 11 | 30 | 2 | 152 |
-| 360d | 2025-10-06 | 21 | 183 | 13 | 56 | 5 | 189 |
-| last720d | 2024-10-11 | 33 | 247 | 14 | 114 | 9 | 257 |
+| 30d | 2026-09-02 | 5 | 38 | 1 | 10 | 1 | 36 |
+| last60d | 2026-08-03 | 15 | 134 | 3 | 25 | 2 | 136 |
+| 90d | 2026-07-04 | 15 | 149 | 7 | 28 | 2 | 152 |
+| last180d | 2026-04-05 | 15 | 155 | 9 | 33 | 2 | 158 |
+| 360d | 2025-10-07 | 23 | 189 | 11 | 59 | 5 | 195 |
+| last720d | 2024-10-12 | 35 | 253 | 12 | 117 | 9 | 261 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [harlequin-2.15.0-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.15.0/harlequin-2.15.0-py3-none-any.whl) | 333.7 KiB | `other` |
-| [harlequin-2.15.0.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.15.0/harlequin-2.15.0.tar.gz) | 307.4 KiB | `native/unknown` |
-| [hsql-2.15.0-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.15.0/hsql-2.15.0-py3-none-any.whl) | 8.9 KiB | `other` |
-| [hsql-2.15.0.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.15.0/hsql-2.15.0.tar.gz) | 11.0 KiB | `native/unknown` |
-| [LICENSE](https://github.com/tconbeer/harlequin/releases/download/v2.15.0/LICENSE) | 1.0 KiB | `other` |
+| [harlequin-2.16.1-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.16.1/harlequin-2.16.1-py3-none-any.whl) | 339.3 KiB | `other` |
+| [harlequin-2.16.1.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.16.1/harlequin-2.16.1.tar.gz) | 311.7 KiB | `native/unknown` |
+| [hsql-2.16.1-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.16.1/hsql-2.16.1-py3-none-any.whl) | 8.9 KiB | `other` |
+| [hsql-2.16.1.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.16.1/hsql-2.16.1.tar.gz) | 11.0 KiB | `native/unknown` |
+| [LICENSE](https://github.com/tconbeer/harlequin/releases/download/v2.16.1/LICENSE) | 1.0 KiB | `other` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:13:10Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:50:43Z._
