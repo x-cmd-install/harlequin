@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9148,
       "digest": "sha256:9eb2fb3cb540768e68c605cd8c8db324b1616c722067781e7ef3d47b1c5930ce",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-02T02:32:44Z",
       "updated_at": "2026-10-02T02:32:44Z",
       "browser_download_url": "https://github.com/tconbeer/harlequin/releases/download/v2.16.1/hsql-2.16.1-py3-none-any.whl"
