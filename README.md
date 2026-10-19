@@ -14,11 +14,11 @@ x install harlequin
 
 ## Code insight
 
-Total: **82,642** lines of code across **362** files in the top 5 languages.
+Total: **82,656** lines of code across **362** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 49,706 | 1,614 | 8,233 | 175 |
+| Python | 49,720 | 1,622 | 8,231 | 175 |
 | Svg | 31,237 | 166 | 1,162 | 166 |
 | Json | 1,170 | 0 | 0 | 3 |
 | Toml | 473 | 94 | 118 | 17 |
@@ -32,38 +32,38 @@ Total: **82,642** lines of code across **362** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.16.1` (2026-10-02)
+- **Latest**: `v2.16.2` (2026-10-18)
 - **Last commit**: 2026-10-18
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,469 · **Forks**: 183 · **Open issues**: 306 · **Contributors**: 29
+- **Stars**: 6,472 · **Forks**: 186 · **Open issues**: 306 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 564 · **Open PRs**: 12 · **Closed issues**: 289 · **Open issues**: 17 · **Commits**: 593
+- **Releases**: 107 · **Merged PRs**: 566 · **Open PRs**: 12 · **Closed issues**: 291 · **Open issues**: 15 · **Commits**: 595
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 2 | 16 | 1 | 5 | 1 | 15 |
-| last60d | 2026-08-19 | 10 | 96 | 3 | 17 | 3 | 82 |
-| 90d | 2026-07-20 | 15 | 153 | 7 | 28 | 3 | 156 |
-| last180d | 2026-04-21 | 15 | 158 | 10 | 34 | 3 | 161 |
-| 360d | 2025-10-23 | 21 | 185 | 12 | 51 | 4 | 183 |
-| last720d | 2024-10-28 | 35 | 258 | 12 | 113 | 10 | 266 |
+| 30d | 2026-09-19 | 3 | 18 | 1 | 6 | 0 | 17 |
+| last60d | 2026-08-20 | 11 | 96 | 3 | 18 | 2 | 84 |
+| 90d | 2026-07-21 | 16 | 154 | 7 | 29 | 2 | 158 |
+| last180d | 2026-04-22 | 16 | 160 | 10 | 35 | 2 | 163 |
+| 360d | 2025-10-24 | 22 | 185 | 12 | 51 | 3 | 185 |
+| last720d | 2024-10-29 | 36 | 260 | 12 | 115 | 8 | 268 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [harlequin-2.16.1-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.16.1/harlequin-2.16.1-py3-none-any.whl) | 339.3 KiB | `other` |
-| [harlequin-2.16.1.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.16.1/harlequin-2.16.1.tar.gz) | 311.7 KiB | `native/unknown` |
-| [hsql-2.16.1-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.16.1/hsql-2.16.1-py3-none-any.whl) | 8.9 KiB | `other` |
-| [hsql-2.16.1.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.16.1/hsql-2.16.1.tar.gz) | 11.0 KiB | `native/unknown` |
-| [LICENSE](https://github.com/tconbeer/harlequin/releases/download/v2.16.1/LICENSE) | 1.0 KiB | `other` |
+| [harlequin-2.16.2-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.16.2/harlequin-2.16.2-py3-none-any.whl) | 345.6 KiB | `other` |
+| [harlequin-2.16.2.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.16.2/harlequin-2.16.2.tar.gz) | 317.4 KiB | `native/unknown` |
+| [hsql-2.16.2-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.16.2/hsql-2.16.2-py3-none-any.whl) | 8.9 KiB | `other` |
+| [hsql-2.16.2.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.16.2/hsql-2.16.2.tar.gz) | 11.0 KiB | `native/unknown` |
+| [LICENSE](https://github.com/tconbeer/harlequin/releases/download/v2.16.2/LICENSE) | 1.0 KiB | `other` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:41:57Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:51:17Z._
