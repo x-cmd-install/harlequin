@@ -33,27 +33,27 @@ Total: **82,656** lines of code across **362** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.16.2` (2026-10-18)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-19
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,472 · **Forks**: 186 · **Open issues**: 306 · **Contributors**: 29
+- **Stars**: 6,475 · **Forks**: 189 · **Open issues**: 306 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 566 · **Open PRs**: 12 · **Closed issues**: 291 · **Open issues**: 15 · **Commits**: 595
+- **Releases**: 107 · **Merged PRs**: 567 · **Open PRs**: 12 · **Closed issues**: 291 · **Open issues**: 15 · **Commits**: 596
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 3 | 18 | 1 | 6 | 0 | 17 |
-| last60d | 2026-08-20 | 11 | 96 | 3 | 18 | 2 | 84 |
-| 90d | 2026-07-21 | 16 | 154 | 7 | 29 | 2 | 158 |
-| last180d | 2026-04-22 | 16 | 160 | 10 | 35 | 2 | 163 |
-| 360d | 2025-10-24 | 22 | 185 | 12 | 51 | 3 | 185 |
-| last720d | 2024-10-29 | 36 | 260 | 12 | 115 | 8 | 268 |
+| 30d | 2026-09-20 | 3 | 19 | 1 | 6 | 0 | 18 |
+| last60d | 2026-08-21 | 11 | 97 | 3 | 18 | 2 | 85 |
+| 90d | 2026-07-22 | 16 | 155 | 7 | 28 | 2 | 159 |
+| last180d | 2026-04-23 | 16 | 161 | 10 | 35 | 2 | 164 |
+| 360d | 2025-10-25 | 21 | 186 | 12 | 51 | 3 | 186 |
+| last720d | 2024-10-30 | 36 | 261 | 12 | 115 | 8 | 269 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:51:17Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:12:58Z._
