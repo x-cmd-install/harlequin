@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 325014,
       "digest": "sha256:62f5e6bcab6040a2375cf481fe04f53932e27473bf999c423a808428e26b35fd",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-18T13:51:29Z",
       "updated_at": "2026-10-18T13:51:29Z",
       "browser_download_url": "https://github.com/tconbeer/harlequin/releases/download/v2.16.2/harlequin-2.16.2.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11235,
       "digest": "sha256:807e19e8e96ae90d0adb1827c0b364c31682ac064376ceeb7faea1be98f06c87",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-18T13:51:29Z",
       "updated_at": "2026-10-18T13:51:29Z",
       "browser_download_url": "https://github.com/tconbeer/harlequin/releases/download/v2.16.2/hsql-2.16.2.tar.gz"
