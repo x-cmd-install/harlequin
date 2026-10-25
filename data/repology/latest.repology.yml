@@ -1,16 +1,14 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
+- repo: nix_stable_26_05
   srcname: harlequin
-  binnames:
-    - harlequin
   visiblename: harlequin
-  version: 2.16.2
-  origversion: 2.16.2+dfsg-1
-  status: newest
+  version: 2.5.2
+  origversion: null
+  status: outdated
+  summary: SQL IDE for Your Terminal
   maintainers:
-    - daniel@debian.org
-  categories:
-    - misc
+    - david@joynetiks.com
+  licenses:
+    - MIT
 - repo: aur
   srcname: harlequin
   binname: harlequin
@@ -51,6 +49,19 @@
     - daniel@debian.org
   categories:
     - admin
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.16.2
+  origversion: 2.16.2+dfsg-1
+  status: newest
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - misc
 - repo: homebrew
   srcname: harlequin
   visiblename: harlequin
@@ -91,17 +102,6 @@
   srcname: harlequin
   visiblename: harlequin
   version: 2.4.1
-  origversion: null
-  status: outdated
-  summary: SQL IDE for Your Terminal
-  maintainers:
-    - david@joynetiks.com
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: harlequin
-  visiblename: harlequin
-  version: 2.5.2
   origversion: null
   status: outdated
   summary: SQL IDE for Your Terminal
