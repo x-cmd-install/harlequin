@@ -1,20 +1,9 @@
-- repo: nix_stable_26_05
-  srcname: harlequin
-  visiblename: harlequin
-  version: 2.5.2
-  origversion: null
-  status: outdated
-  summary: SQL IDE for Your Terminal
-  maintainers:
-    - david@joynetiks.com
-  licenses:
-    - MIT
 - repo: aur
   srcname: harlequin
   binname: harlequin
   visiblename: harlequin
-  version: 2.16.2
-  origversion: 2.16.2-1
+  version: 2.17.0
+  origversion: 2.17.0-1
   status: newest
   summary: The SQL IDE for Your Terminal
   maintainers:
@@ -31,7 +20,7 @@
   visiblename: harlequin
   version: 2.16.2
   origversion: 2.16.2+dfsg-1
-  status: newest
+  status: outdated
   maintainers:
     - daniel@debian.org
   categories:
@@ -57,7 +46,7 @@
   visiblename: harlequin
   version: 2.16.2
   origversion: 2.16.2+dfsg-1
-  status: newest
+  status: outdated
   maintainers:
     - daniel@debian.org
   categories:
@@ -67,7 +56,7 @@
   visiblename: harlequin
   version: 2.16.2
   origversion: null
-  status: newest
+  status: outdated
   summary: Easy, fast, and beautiful database client for the terminal
 - repo: homebrew
   srcname: harlequin
@@ -109,12 +98,23 @@
     - david@joynetiks.com
   licenses:
     - MIT
+- repo: nix_stable_26_05
+  srcname: harlequin
+  visiblename: harlequin
+  version: 2.5.2
+  origversion: null
+  status: outdated
+  summary: SQL IDE for Your Terminal
+  maintainers:
+    - david@joynetiks.com
+  licenses:
+    - MIT
 - repo: nix_unstable
   srcname: harlequin
   visiblename: harlequin
   version: 2.16.2
   origversion: null
-  status: newest
+  status: outdated
   summary: SQL IDE for Your Terminal
   maintainers:
     - david@joynetiks.com
