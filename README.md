@@ -14,11 +14,11 @@ x install harlequin
 
 ## Code insight
 
-Total: **83,200** lines of code across **364** files in the top 5 languages.
+Total: **83,300** lines of code across **364** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 50,279 | 1,635 | 8,298 | 177 |
+| Python | 50,379 | 1,635 | 8,306 | 177 |
 | Svg | 31,221 | 166 | 1,162 | 166 |
 | Json | 1,170 | 0 | 0 | 3 |
 | Toml | 474 | 94 | 118 | 17 |
@@ -38,22 +38,22 @@ Total: **83,200** lines of code across **364** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,485 · **Forks**: 184 · **Open issues**: 312 · **Contributors**: 30
+- **Stars**: 6,487 · **Forks**: 185 · **Open issues**: 314 · **Contributors**: 30
 
 ## Totals (cumulative)
 
-- **Releases**: 108 · **Merged PRs**: 573 · **Open PRs**: 16 · **Closed issues**: 293 · **Open issues**: 19 · **Commits**: 602
+- **Releases**: 108 · **Merged PRs**: 575 · **Open PRs**: 16 · **Closed issues**: 295 · **Open issues**: 19 · **Commits**: 604
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 4 | 23 | 5 | 7 | 5 | 16 |
-| last60d | 2026-08-28 | 10 | 77 | 7 | 18 | 7 | 64 |
-| 90d | 2026-07-29 | 17 | 161 | 8 | 29 | 7 | 165 |
-| last180d | 2026-04-30 | 17 | 167 | 14 | 35 | 7 | 170 |
-| 360d | 2025-11-01 | 20 | 186 | 16 | 50 | 8 | 188 |
-| last720d | 2024-11-06 | 35 | 258 | 16 | 113 | 13 | 266 |
+| 30d | 2026-09-28 | 4 | 24 | 5 | 9 | 5 | 18 |
+| last60d | 2026-08-29 | 10 | 77 | 7 | 20 | 7 | 66 |
+| 90d | 2026-07-30 | 17 | 163 | 8 | 31 | 7 | 167 |
+| last180d | 2026-05-01 | 17 | 169 | 14 | 37 | 7 | 172 |
+| 360d | 2025-11-02 | 20 | 188 | 16 | 52 | 8 | 190 |
+| last720d | 2024-11-07 | 35 | 260 | 16 | 114 | 13 | 268 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:25:00Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:53:18Z._
