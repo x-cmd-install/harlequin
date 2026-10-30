@@ -1,14 +1,26 @@
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.5.1
+  origversion: 2.5.1+dfsg-2
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
 - repo: aur
   srcname: harlequin
   binname: harlequin
   visiblename: harlequin
   version: 2.17.0
-  origversion: 2.17.0-1
+  origversion: 2.17.0-2
   status: newest
   summary: The SQL IDE for Your Terminal
   maintainers:
     - alphajack@aur
-    - prochac@aur
     - dominiquini@aur
   licenses:
     - MIT
@@ -18,9 +30,9 @@
   binnames:
     - harlequin
   visiblename: harlequin
-  version: 2.16.2
-  origversion: 2.16.2+dfsg-1
-  status: outdated
+  version: 2.17.0
+  origversion: 2.17.0+dfsg-1
+  status: newest
   maintainers:
     - daniel@debian.org
   categories:
@@ -44,9 +56,9 @@
   binnames:
     - harlequin
   visiblename: harlequin
-  version: 2.16.2
-  origversion: 2.16.2+dfsg-1
-  status: outdated
+  version: 2.17.0
+  origversion: 2.17.0+dfsg-1
+  status: newest
   maintainers:
     - daniel@debian.org
   categories:
@@ -154,19 +166,6 @@
   visiblename: harlequin
   version: 2.1.2
   origversion: 2.1.2-2
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
-  srcname: harlequin
-  binnames:
-    - harlequin
-  visiblename: harlequin
-  version: 2.5.1
-  origversion: 2.5.1+dfsg-2
   status: outdated
   maintainers:
     - daniel@debian.org
