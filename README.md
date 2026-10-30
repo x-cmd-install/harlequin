@@ -38,7 +38,7 @@ Total: **83,300** lines of code across **364** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,492 · **Forks**: 185 · **Open issues**: 314 · **Contributors**: 30
+- **Stars**: 6,495 · **Forks**: 185 · **Open issues**: 314 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **83,300** lines of code across **364** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 4 | 22 | 5 | 8 | 5 | 18 |
-| last60d | 2026-08-30 | 9 | 75 | 7 | 20 | 7 | 66 |
-| 90d | 2026-07-31 | 17 | 163 | 8 | 30 | 7 | 167 |
-| last180d | 2026-05-02 | 17 | 169 | 14 | 37 | 7 | 172 |
-| 360d | 2025-11-03 | 20 | 188 | 16 | 52 | 8 | 190 |
-| last720d | 2024-11-08 | 35 | 260 | 16 | 114 | 13 | 268 |
+| 30d | 2026-09-30 | 4 | 22 | 5 | 8 | 5 | 18 |
+| last60d | 2026-08-31 | 8 | 72 | 6 | 19 | 7 | 66 |
+| 90d | 2026-08-01 | 17 | 163 | 8 | 30 | 7 | 167 |
+| last180d | 2026-05-03 | 17 | 169 | 14 | 37 | 7 | 172 |
+| 360d | 2025-11-04 | 20 | 188 | 16 | 52 | 8 | 190 |
+| last720d | 2024-11-09 | 35 | 260 | 16 | 114 | 13 | 268 |
 
 ## Release assets
 
@@ -67,11 +67,11 @@ Total: **83,300** lines of code across **364** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **16** distros on [repology.org](https://repology.org/project/harlequin). **2** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **16** distros on [repology.org](https://repology.org/project/harlequin). **4** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `2.16.2` | ⚠️ outdated |
+| Debian unstable | `2.17.0` | ✅ latest |
 | Ubuntu 26.04 LTS | `2.5.1` | ⚠️ outdated |
 | Homebrew | `2.16.2` | ⚠️ outdated |
 | Nix unstable | `2.17.0` | ✅ latest |
@@ -85,4 +85,4 @@ Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:01:11Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:00:12Z._
