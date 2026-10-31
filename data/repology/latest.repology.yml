@@ -1,16 +1,3 @@
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
-  srcname: harlequin
-  binnames:
-    - harlequin
-  visiblename: harlequin
-  version: 2.5.1
-  origversion: 2.5.1+dfsg-2
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-  categories:
-    - universe/misc
 - repo: aur
   srcname: harlequin
   binname: harlequin
@@ -66,9 +53,9 @@
 - repo: homebrew
   srcname: harlequin
   visiblename: harlequin
-  version: 2.16.2
+  version: 2.17.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Easy, fast, and beautiful database client for the terminal
 - repo: homebrew
   srcname: harlequin
@@ -166,6 +153,19 @@
   visiblename: harlequin
   version: 2.1.2
   origversion: 2.1.2-2
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.5.1
+  origversion: 2.5.1+dfsg-2
   status: outdated
   maintainers:
     - daniel@debian.org
