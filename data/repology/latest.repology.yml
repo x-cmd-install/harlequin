@@ -1,3 +1,16 @@
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.5.1
+  origversion: 2.5.1+dfsg-2
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
 - repo: aur
   srcname: harlequin
   binname: harlequin
@@ -158,19 +171,6 @@
     - daniel@debian.org
   categories:
     - universe/misc
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
-  srcname: harlequin
-  binnames:
-    - harlequin
-  visiblename: harlequin
-  version: 2.5.1
-  origversion: 2.5.1+dfsg-2
-  status: outdated
-  maintainers:
-    - daniel@debian.org
-  categories:
-    - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
   srcname: harlequin
@@ -180,6 +180,32 @@
   version: 2.9.0
   origversion: 2.9.0+dfsg-2
   status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.9.0
+  origversion: 2.9.0+dfsg-2
+  status: outdated
+  maintainers:
+    - daniel@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: harlequin
+  binnames:
+    - harlequin
+  visiblename: harlequin
+  version: 2.17.0
+  origversion: 2.17.0+dfsg-1
+  status: newest
   maintainers:
     - daniel@debian.org
   categories:
