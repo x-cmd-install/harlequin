@@ -48,12 +48,12 @@ Total: **83,300** lines of code across **364** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 13 | 11 | 5 | 5 | 13 |
-| last60d | 2026-09-09 | 6 | 47 | 11 | 10 | 5 | 50 |
-| 90d | 2026-08-10 | 13 | 132 | 13 | 25 | 7 | 134 |
-| last180d | 2026-05-12 | 17 | 167 | 20 | 36 | 7 | 171 |
-| 360d | 2025-11-13 | 20 | 188 | 22 | 51 | 8 | 190 |
-| last720d | 2024-11-18 | 35 | 259 | 22 | 112 | 13 | 268 |
+| 30d | 2026-10-10 | 2 | 13 | 11 | 5 | 5 | 12 |
+| last60d | 2026-09-10 | 6 | 47 | 11 | 10 | 5 | 34 |
+| 90d | 2026-08-11 | 13 | 129 | 13 | 24 | 7 | 123 |
+| last180d | 2026-05-13 | 17 | 167 | 20 | 36 | 7 | 171 |
+| 360d | 2025-11-14 | 20 | 188 | 22 | 51 | 8 | 190 |
+| last720d | 2024-11-19 | 35 | 259 | 22 | 112 | 13 | 268 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:16:45Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:46:36Z._
