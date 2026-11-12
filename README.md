@@ -33,27 +33,27 @@ Total: **83,300** lines of code across **364** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.17.0` (2026-10-26)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-12
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,518 · **Forks**: 187 · **Open issues**: 314 · **Contributors**: 30
+- **Stars**: 6,519 · **Forks**: 187 · **Open issues**: 314 · **Contributors**: 30
 
 ## Totals (cumulative)
 
-- **Releases**: 108 · **Merged PRs**: 583 · **Open PRs**: 25 · **Closed issues**: 295 · **Open issues**: 19 · **Commits**: 612
+- **Releases**: 108 · **Merged PRs**: 587 · **Open PRs**: 22 · **Closed issues**: 295 · **Open issues**: 19 · **Commits**: 616
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 20 | 14 | 5 | 5 | 20 |
-| last60d | 2026-09-12 | 6 | 53 | 14 | 9 | 5 | 42 |
-| 90d | 2026-08-13 | 13 | 133 | 16 | 23 | 7 | 131 |
-| last180d | 2026-05-15 | 17 | 175 | 23 | 36 | 7 | 179 |
-| 360d | 2025-11-16 | 20 | 196 | 25 | 51 | 8 | 198 |
-| last720d | 2024-11-21 | 35 | 267 | 25 | 111 | 13 | 276 |
+| 30d | 2026-10-13 | 2 | 24 | 11 | 5 | 5 | 24 |
+| last60d | 2026-09-13 | 6 | 57 | 11 | 9 | 5 | 46 |
+| 90d | 2026-08-14 | 13 | 137 | 13 | 22 | 7 | 135 |
+| last180d | 2026-05-16 | 17 | 179 | 20 | 36 | 7 | 183 |
+| 360d | 2025-11-17 | 20 | 200 | 22 | 51 | 8 | 202 |
+| last720d | 2024-11-22 | 35 | 271 | 22 | 111 | 13 | 280 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:37:20Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:31:45Z._
