@@ -14,11 +14,11 @@ x install harlequin
 
 ## Code insight
 
-Total: **83,300** lines of code across **364** files in the top 5 languages.
+Total: **83,399** lines of code across **364** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 50,379 | 1,635 | 8,306 | 177 |
+| Python | 50,478 | 1,634 | 8,320 | 177 |
 | Svg | 31,221 | 166 | 1,162 | 166 |
 | Json | 1,170 | 0 | 0 | 3 |
 | Toml | 474 | 94 | 118 | 17 |
@@ -33,27 +33,27 @@ Total: **83,300** lines of code across **364** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.17.0` (2026-10-26)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,524 · **Forks**: 189 · **Open issues**: 315 · **Contributors**: 30
+- **Stars**: 6,527 · **Forks**: 188 · **Open issues**: 315 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 108 · **Merged PRs**: 590 · **Open PRs**: 22 · **Closed issues**: 295 · **Open issues**: 20 · **Commits**: 619
+- **Releases**: 108 · **Merged PRs**: 592 · **Open PRs**: 23 · **Closed issues**: 296 · **Open issues**: 19 · **Commits**: 621
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 23 | 11 | 3 | 6 | 22 |
-| last60d | 2026-09-18 | 4 | 42 | 11 | 9 | 6 | 41 |
-| 90d | 2026-08-19 | 12 | 122 | 13 | 21 | 8 | 120 |
-| last180d | 2026-05-21 | 17 | 182 | 20 | 36 | 8 | 185 |
-| 360d | 2025-11-22 | 20 | 203 | 22 | 51 | 9 | 205 |
-| last720d | 2024-11-27 | 35 | 274 | 22 | 109 | 14 | 283 |
+| 30d | 2026-10-20 | 1 | 24 | 12 | 4 | 5 | 24 |
+| last60d | 2026-09-20 | 4 | 44 | 12 | 10 | 5 | 43 |
+| 90d | 2026-08-21 | 12 | 122 | 14 | 22 | 7 | 122 |
+| last180d | 2026-05-23 | 17 | 184 | 21 | 37 | 7 | 187 |
+| 360d | 2025-11-24 | 20 | 205 | 23 | 52 | 8 | 207 |
+| last720d | 2024-11-29 | 35 | 276 | 23 | 110 | 13 | 285 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:11:22Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:32:27Z._
