@@ -38,7 +38,7 @@ Total: **83,399** lines of code across **364** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,535 · **Forks**: 188 · **Open issues**: 315 · **Contributors**: 31
+- **Stars**: 6,538 · **Forks**: 188 · **Open issues**: 315 · **Contributors**: 31
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **83,399** lines of code across **364** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 24 | 8 | 3 | 2 | 18 |
-| last60d | 2026-09-25 | 4 | 43 | 12 | 10 | 5 | 41 |
-| 90d | 2026-08-26 | 11 | 108 | 14 | 22 | 7 | 93 |
-| last180d | 2026-05-28 | 17 | 185 | 21 | 37 | 7 | 188 |
-| 360d | 2025-11-29 | 20 | 206 | 23 | 52 | 8 | 208 |
-| last720d | 2024-12-04 | 35 | 276 | 23 | 110 | 12 | 286 |
+| 30d | 2026-10-26 | 1 | 21 | 8 | 2 | 1 | 18 |
+| last60d | 2026-09-26 | 4 | 43 | 12 | 10 | 5 | 41 |
+| 90d | 2026-08-27 | 11 | 101 | 14 | 22 | 7 | 93 |
+| last180d | 2026-05-29 | 17 | 185 | 21 | 37 | 7 | 188 |
+| 360d | 2025-11-30 | 20 | 206 | 23 | 52 | 8 | 208 |
+| last720d | 2024-12-05 | 35 | 276 | 23 | 110 | 12 | 286 |
 
 ## Release assets
 
@@ -65,17 +65,6 @@ Total: **83,399** lines of code across **364** files in the top 5 languages.
 | [hsql-2.17.0.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.17.0/hsql-2.17.0.tar.gz) | 11.0 KiB | `native/unknown` |
 | [LICENSE](https://github.com/tconbeer/harlequin/releases/download/v2.17.0/LICENSE) | 1.0 KiB | `other` |
 
-## Distribution status
-
-Reported by **18** distros on [repology.org](https://repology.org/project/harlequin). **6** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.17.0` | ✅ latest |
-| Ubuntu 26.04 LTS | `2.5.1` | ⚠️ outdated |
-| Homebrew | `2.17.0` | ✅ latest |
-| Nix unstable | `2.17.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `harlequin` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +74,4 @@ Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:02:56Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:08:11Z._
