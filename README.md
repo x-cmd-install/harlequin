@@ -14,11 +14,11 @@ x install harlequin
 
 ## Code insight
 
-Total: **83,399** lines of code across **364** files in the top 5 languages.
+Total: **83,451** lines of code across **364** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 50,478 | 1,634 | 8,320 | 177 |
+| Python | 50,530 | 1,636 | 8,328 | 177 |
 | Svg | 31,221 | 166 | 1,162 | 166 |
 | Json | 1,170 | 0 | 0 | 3 |
 | Toml | 474 | 94 | 118 | 17 |
@@ -32,38 +32,38 @@ Total: **83,399** lines of code across **364** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.17.0` (2026-10-26)
-- **Last commit**: 2026-11-23
+- **Latest**: `v2.18.0` (2026-11-25)
+- **Last commit**: 2026-11-25
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,538 · **Forks**: 188 · **Open issues**: 315 · **Contributors**: 31
+- **Stars**: 6,542 · **Forks**: 189 · **Open issues**: 317 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 108 · **Merged PRs**: 593 · **Open PRs**: 23 · **Closed issues**: 296 · **Open issues**: 19 · **Commits**: 622
+- **Releases**: 109 · **Merged PRs**: 595 · **Open PRs**: 23 · **Closed issues**: 297 · **Open issues**: 20 · **Commits**: 624
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 21 | 8 | 2 | 1 | 18 |
-| last60d | 2026-09-26 | 4 | 43 | 12 | 10 | 5 | 41 |
-| 90d | 2026-08-27 | 11 | 101 | 14 | 22 | 7 | 93 |
-| last180d | 2026-05-29 | 17 | 185 | 21 | 37 | 7 | 188 |
-| 360d | 2025-11-30 | 20 | 206 | 23 | 52 | 8 | 208 |
-| last720d | 2024-12-05 | 35 | 276 | 23 | 110 | 12 | 286 |
+| 30d | 2026-10-27 | 1 | 20 | 7 | 2 | 2 | 20 |
+| last60d | 2026-09-27 | 5 | 45 | 12 | 11 | 6 | 43 |
+| 90d | 2026-08-28 | 11 | 99 | 14 | 22 | 8 | 95 |
+| last180d | 2026-05-30 | 18 | 187 | 21 | 38 | 8 | 190 |
+| 360d | 2025-12-01 | 21 | 207 | 23 | 53 | 9 | 210 |
+| last720d | 2024-12-06 | 36 | 278 | 23 | 111 | 13 | 288 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [harlequin-2.17.0-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.17.0/harlequin-2.17.0-py3-none-any.whl) | 347.2 KiB | `other` |
-| [harlequin-2.17.0.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.17.0/harlequin-2.17.0.tar.gz) | 319.2 KiB | `native/unknown` |
-| [hsql-2.17.0-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.17.0/hsql-2.17.0-py3-none-any.whl) | 8.9 KiB | `other` |
-| [hsql-2.17.0.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.17.0/hsql-2.17.0.tar.gz) | 11.0 KiB | `native/unknown` |
-| [LICENSE](https://github.com/tconbeer/harlequin/releases/download/v2.17.0/LICENSE) | 1.0 KiB | `other` |
+| [harlequin-2.18.0-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.18.0/harlequin-2.18.0-py3-none-any.whl) | 348.4 KiB | `other` |
+| [harlequin-2.18.0.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.18.0/harlequin-2.18.0.tar.gz) | 320.5 KiB | `native/unknown` |
+| [hsql-2.18.0-py3-none-any.whl](https://github.com/tconbeer/harlequin/releases/download/v2.18.0/hsql-2.18.0-py3-none-any.whl) | 8.9 KiB | `other` |
+| [hsql-2.18.0.tar.gz](https://github.com/tconbeer/harlequin/releases/download/v2.18.0/hsql-2.18.0.tar.gz) | 11.0 KiB | `native/unknown` |
+| [LICENSE](https://github.com/tconbeer/harlequin/releases/download/v2.18.0/LICENSE) | 1.0 KiB | `other` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for harlequin lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:08:11Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:40:45Z._
