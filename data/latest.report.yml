@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.18.0"
   latestRelease: "v2.18.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:02:12Z
+  collectedAt: 2026-11-28T08:08:39Z
 timeline:
   created: 2023-05-02
   lastCommit: 2026-11-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-11-25
   lastPrerelease: 
 popularity:
-  star: 6541
+  star: 6542
   watcher: 23
   fork: 189
   release: 109
@@ -28,7 +28,7 @@ language:
 totalBytes: 2220686
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 20
     openPR: 7
@@ -36,23 +36,23 @@ recent:
     openIssue: 1
     commit: 20
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 5
-    mergedPR: 44
+    mergedPR: 42
     openPR: 12
-    closedIssue: 11
+    closedIssue: 10
     openIssue: 6
     commit: 43
   last90d:
-    since: 2026-08-29
-    release: 11
-    mergedPR: 97
+    since: 2026-08-30
+    release: 10
+    mergedPR: 95
     openPR: 14
     closedIssue: 22
     openIssue: 8
     commit: 95
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 18
     mergedPR: 187
     openPR: 21
@@ -60,7 +60,7 @@ recent:
     openIssue: 8
     commit: 190
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 21
     mergedPR: 207
     openPR: 23
@@ -68,7 +68,7 @@ recent:
     openIssue: 9
     commit: 210
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 36
     mergedPR: 278
     openPR: 23
@@ -84,7 +84,7 @@ total:
   commit: 624
 ---
 path: /home/runner/.x-repo/github.com/tconbeer/harlequin
-collectedAt: 2026-11-27T09:02:19Z
+collectedAt: 2026-11-28T08:08:44Z
 loc:
   Python:
     code: 50530
